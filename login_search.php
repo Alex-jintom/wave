@@ -1,8 +1,8 @@
 <?
 
-  $connect = mysql_connect("localhost","kdhong","1234");
+  $connect = mysql_connect("localhost","rood","");
   mysql_set_charset("utf8",$connect);
-  mysql_select_db("kdhong_db",$connect);
+  mysql_select_db("jin",$connect);
 
   $id = $_POST['userid'];
   $pw = $_POST['userpw'];

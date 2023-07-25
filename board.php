@@ -7,7 +7,7 @@
   <head>
     <meta charset="utf-8">
     <title>게시판</title>
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
     <style>
     #page_num {
       font-size: 14px;
