@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8">
     <title>K-borad 입니다.</title>
-    <link rel="stylesheet" type="text/css" href="mystyle.css"/>
+    <link rel="stylesheet" type="text/css" href="/css/style.css"/>
     <style>
     *{
       background-color: white;
